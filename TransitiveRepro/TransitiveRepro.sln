@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitiveRepro", "TransitiveRepro\TransitiveRepro.csproj", "{12EF44C7-0A77-46CF-971E-180BC615A278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency", "Dependency\Dependency.csproj", "{D8FB28E3-3366-4ACC-B59E-E8E30ABB427B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EF44C7-0A77-46CF-971E-180BC615A278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EF44C7-0A77-46CF-971E-180BC615A278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EF44C7-0A77-46CF-971E-180BC615A278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EF44C7-0A77-46CF-971E-180BC615A278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FB28E3-3366-4ACC-B59E-E8E30ABB427B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FB28E3-3366-4ACC-B59E-E8E30ABB427B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FB28E3-3366-4ACC-B59E-E8E30ABB427B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FB28E3-3366-4ACC-B59E-E8E30ABB427B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9290BA13-C4E3-409A-A2B1-AF57397406F8}
+	EndGlobalSection
+EndGlobal
